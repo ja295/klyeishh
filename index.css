@@ -21,11 +21,7 @@ body{
 }
 
 .james{
-    background-color: black;
-    background-image: url(five.webp);
-    background-size: cover;
     border: 7px solid blue ;
-    background-color: red;
     border-left: 7px solid rgb(15, 236, 89) ;
     display: inline-block;
     max-width: 96vw;
