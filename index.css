@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    border: 2px solid red;
+    background-color: black;
+    background-image: url(maggy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    gap: 20px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    place-items: center ;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 99vw;
+    border: ;
+
+
+}
+
+.james{
+    background-color: black;
+    background-image: url(five.webp);
+    background-size: cover;
+    border: 7px solid blue ;
+    background-color: red;
+    border-left: 7px solid rgb(15, 236, 89) ;
+    display: inline-block;
+    max-width: 70vw;
+    height: auto;
+    overflow-wrap: break-word;
+    
+    
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-size: 4vw;
+    color: blueviolet;
+    
+
+}
+p{
+    margin-left: 1vw;
+    margin-right: 10px;
+    font-size: 20px;
+    color: rgb(206, 21, 21);
+    
+}
